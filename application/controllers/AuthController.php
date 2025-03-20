@@ -117,10 +117,10 @@ class AuthController extends CI_Controller {
     
         $config = array(
             'protocol'      => 'smtp',
-            'smtp_host'     => 'mail.jas-pro.my.id', 
+            'smtp_host'     => 'mail.bitap.my.id', 
             'smtp_port'     => 465, 
-            'smtp_user'     => 'qtrack@jas-pro.my.id', 
-            'smtp_pass'     => 'Pemalang19', 
+            'smtp_user'     => 'qtrack@bitap.my.id', 
+            'smtp_pass'     => 'Semangat123*', 
             'smtp_crypto'   => 'ssl', 
             'mailtype'      => 'html', 
             'charset'       => 'utf-8', 
